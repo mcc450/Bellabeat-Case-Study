@@ -9,3 +9,9 @@ Bellabeat is a high-tech manufacturer of health-focused products for women. They
 Bellabeat offers wearable smart devices as a watch, water bottle, and bracelet, necklace, or clip that track activity, sleep, stress, and water intake. All devices connect to their Bellabeat app which provides users with the data collected, menstrual cycle, and recommendations based on user data.
 
 This analysis will be done in Excel and focus on how trends and connections in the activity and wellness data can help advertise to consumer needs and possibly retool their app product to better meet consumer demands.
+
+## Skills Used in Excel
+-- Data Cleaning
+-- Data Validation
+-- Power Query
+-- Data Visualization
