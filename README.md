@@ -20,3 +20,4 @@ This analysis will be done in Excel and focus on how trends and connections in t
 - Formulas (SUMIFS, COUNT, CORREL, custom calculations)
 
 ## Dashboard Sample
+![alt text](https://github.com/[mcc450]/[Bellabeat-Case_Study]/blob/[branch]/bb_dash_image.jpg?raw=true)
