@@ -18,3 +18,5 @@ This analysis will be done in Excel and focus on how trends and connections in t
 - Data Visualization
 - Pivot Tables
 - Formulas (SUMIFS, COUNT, CORREL, custom calculations)
+
+## Dashboard Sample
