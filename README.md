@@ -20,5 +20,5 @@ This analysis will be done in Excel and focus on how trends and connections in t
 - Formulas (SUMIFS, COUNT, CORREL, custom calculations)
 
 ## Dashboard Sample
-![](Bellabeat-Case-Study/BB dash image.jpg)
+<img src="Images/DashImageBB.jpg">
 
