@@ -14,4 +14,7 @@ This analysis will be done in Excel and focus on how trends and connections in t
 - Data Cleaning
 - Data Validation
 - Power Query
+- Linear Regression Analysis
 - Data Visualization
+- Pivot Tables
+- Formulas (SUMIFS, COUNT, CORREL, custom calculations)
