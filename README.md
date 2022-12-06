@@ -11,7 +11,7 @@ Bellabeat offers wearable smart devices as a watch, water bottle, and bracelet, 
 This analysis will be done in Excel and focus on how trends and connections in the activity and wellness data can help advertise to consumer needs and possibly retool their app product to better meet consumer demands.
 
 ## Skills Used in Excel
--- Data Cleaning
--- Data Validation
--- Power Query
--- Data Visualization
+- Data Cleaning
+- Data Validation
+- Power Query
+- Data Visualization
